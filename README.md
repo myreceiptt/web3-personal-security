@@ -39,3 +39,7 @@ Selain itu, melindungi wallet-mu yang sifatnya non-custodial, melindungi transak
 Apalagi di ruang-waktu **Web3** memungkinkan terjadi transfer nilai yang terdesentralisasi dan lingkungan interaktifnya bersifat otonom, maka adanya desentralisasi ini memunculkan beberapa pertukaran tanggung jawab keamanan, dan seperti biasa, masing-masing kita sebagai manusia masih saja menjadi bagian yang lemah di ruang-waktu **Web3**.
 
 ***
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+***
